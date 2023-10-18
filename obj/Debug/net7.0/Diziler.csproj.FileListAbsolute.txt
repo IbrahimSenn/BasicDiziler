@@ -1,0 +1,15 @@
+C:\Users\ibrah\Desktop\GitHUB projects\Diziler\bin\Debug\net7.0\Diziler.exe
+C:\Users\ibrah\Desktop\GitHUB projects\Diziler\bin\Debug\net7.0\Diziler.deps.json
+C:\Users\ibrah\Desktop\GitHUB projects\Diziler\bin\Debug\net7.0\Diziler.runtimeconfig.json
+C:\Users\ibrah\Desktop\GitHUB projects\Diziler\bin\Debug\net7.0\Diziler.dll
+C:\Users\ibrah\Desktop\GitHUB projects\Diziler\bin\Debug\net7.0\Diziler.pdb
+C:\Users\ibrah\Desktop\GitHUB projects\Diziler\obj\Debug\net7.0\Diziler.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\GitHUB projects\Diziler\obj\Debug\net7.0\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\GitHUB projects\Diziler\obj\Debug\net7.0\Diziler.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\GitHUB projects\Diziler\obj\Debug\net7.0\Diziler.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\GitHUB projects\Diziler\obj\Debug\net7.0\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\GitHUB projects\Diziler\obj\Debug\net7.0\Diziler.dll
+C:\Users\ibrah\Desktop\GitHUB projects\Diziler\obj\Debug\net7.0\refint\Diziler.dll
+C:\Users\ibrah\Desktop\GitHUB projects\Diziler\obj\Debug\net7.0\Diziler.pdb
+C:\Users\ibrah\Desktop\GitHUB projects\Diziler\obj\Debug\net7.0\Diziler.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\GitHUB projects\Diziler\obj\Debug\net7.0\ref\Diziler.dll
